@@ -2137,6 +2137,7 @@ namespace FlowTürk_Görsel_Programlama_Simülatörü
 
         private void FrmAna_Load(object sender, EventArgs e)
         {
+    
             ClsRgtUza uzantı = new ClsRgtUza();
             uzantı.RecommendedPrograms();
            

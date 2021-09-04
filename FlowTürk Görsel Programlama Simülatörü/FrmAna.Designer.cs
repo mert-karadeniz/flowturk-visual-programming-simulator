@@ -181,21 +181,19 @@
             // 
             this.listBox2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.listBox2.FormattingEnabled = true;
-            this.listBox2.Location = new System.Drawing.Point(957, 116);
+            this.listBox2.Location = new System.Drawing.Point(210, 298);
             this.listBox2.Name = "listBox2";
-            this.listBox2.Size = new System.Drawing.Size(46, 17);
+            this.listBox2.Size = new System.Drawing.Size(162, 173);
             this.listBox2.TabIndex = 15;
-            this.listBox2.Visible = false;
             // 
             // listBox3
             // 
             this.listBox3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.listBox3.FormattingEnabled = true;
-            this.listBox3.Location = new System.Drawing.Point(957, 139);
+            this.listBox3.Location = new System.Drawing.Point(378, 298);
             this.listBox3.Name = "listBox3";
-            this.listBox3.Size = new System.Drawing.Size(46, 17);
+            this.listBox3.Size = new System.Drawing.Size(162, 173);
             this.listBox3.TabIndex = 16;
-            this.listBox3.Visible = false;
             // 
             // btnBagla
             // 
@@ -206,14 +204,13 @@
             this.btnBagla.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnBagla.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btnBagla.ForeColor = System.Drawing.Color.Transparent;
-            this.btnBagla.Location = new System.Drawing.Point(930, 340);
+            this.btnBagla.Location = new System.Drawing.Point(946, 419);
             this.btnBagla.Name = "btnBagla";
             this.btnBagla.Size = new System.Drawing.Size(57, 25);
             this.btnBagla.TabIndex = 12;
             this.btnBagla.TabStop = false;
             this.btnBagla.Text = "Bağla";
             this.btnBagla.UseVisualStyleBackColor = false;
-            this.btnBagla.Visible = false;
             this.btnBagla.Click += new System.EventHandler(this.btnBagla_Click_1);
             // 
             // btnSil
@@ -225,25 +222,23 @@
             this.btnSil.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSil.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btnSil.ForeColor = System.Drawing.Color.Transparent;
-            this.btnSil.Location = new System.Drawing.Point(993, 338);
+            this.btnSil.Location = new System.Drawing.Point(1009, 417);
             this.btnSil.Name = "btnSil";
             this.btnSil.Size = new System.Drawing.Size(57, 27);
             this.btnSil.TabIndex = 13;
             this.btnSil.TabStop = false;
             this.btnSil.Text = "Sil";
             this.btnSil.UseVisualStyleBackColor = false;
-            this.btnSil.Visible = false;
             this.btnSil.Click += new System.EventHandler(this.btnSil_Click_1);
             // 
             // listBox1
             // 
             this.listBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.listBox1.FormattingEnabled = true;
-            this.listBox1.Location = new System.Drawing.Point(957, 93);
+            this.listBox1.Location = new System.Drawing.Point(210, 93);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(46, 17);
+            this.listBox1.Size = new System.Drawing.Size(162, 199);
             this.listBox1.TabIndex = 14;
-            this.listBox1.Visible = false;
             // 
             // MenuNesneSecenekleri
             // 
@@ -429,7 +424,7 @@
             // 
             this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(963, 223);
+            this.label1.Location = new System.Drawing.Point(954, 495);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(35, 13);
             this.label1.TabIndex = 17;
@@ -440,7 +435,7 @@
             // 
             this.label2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(1015, 224);
+            this.label2.Location = new System.Drawing.Point(1006, 496);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(35, 13);
             this.label2.TabIndex = 18;
@@ -451,51 +446,46 @@
             // 
             this.listBox4.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.listBox4.FormattingEnabled = true;
-            this.listBox4.Location = new System.Drawing.Point(957, 162);
+            this.listBox4.Location = new System.Drawing.Point(42, 298);
             this.listBox4.Name = "listBox4";
-            this.listBox4.Size = new System.Drawing.Size(46, 17);
+            this.listBox4.Size = new System.Drawing.Size(162, 173);
             this.listBox4.TabIndex = 19;
-            this.listBox4.Visible = false;
             // 
             // listBox5
             // 
             this.listBox5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.listBox5.FormattingEnabled = true;
-            this.listBox5.Location = new System.Drawing.Point(957, 185);
+            this.listBox5.Location = new System.Drawing.Point(378, 93);
             this.listBox5.Name = "listBox5";
-            this.listBox5.Size = new System.Drawing.Size(46, 17);
+            this.listBox5.Size = new System.Drawing.Size(162, 199);
             this.listBox5.TabIndex = 20;
-            this.listBox5.Visible = false;
             // 
             // listBox6
             // 
             this.listBox6.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.listBox6.FormattingEnabled = true;
-            this.listBox6.Location = new System.Drawing.Point(1010, 93);
+            this.listBox6.Location = new System.Drawing.Point(545, 93);
             this.listBox6.Name = "listBox6";
-            this.listBox6.Size = new System.Drawing.Size(46, 17);
+            this.listBox6.Size = new System.Drawing.Size(162, 199);
             this.listBox6.TabIndex = 21;
-            this.listBox6.Visible = false;
             // 
             // listBox7
             // 
             this.listBox7.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.listBox7.FormattingEnabled = true;
-            this.listBox7.Location = new System.Drawing.Point(1011, 116);
+            this.listBox7.Location = new System.Drawing.Point(545, 298);
             this.listBox7.Name = "listBox7";
-            this.listBox7.Size = new System.Drawing.Size(45, 17);
+            this.listBox7.Size = new System.Drawing.Size(162, 173);
             this.listBox7.TabIndex = 22;
-            this.listBox7.Visible = false;
             // 
             // listBox8
             // 
             this.listBox8.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.listBox8.FormattingEnabled = true;
-            this.listBox8.Location = new System.Drawing.Point(1009, 139);
+            this.listBox8.Location = new System.Drawing.Point(713, 93);
             this.listBox8.Name = "listBox8";
-            this.listBox8.Size = new System.Drawing.Size(47, 17);
+            this.listBox8.Size = new System.Drawing.Size(139, 199);
             this.listBox8.TabIndex = 23;
-            this.listBox8.Visible = false;
             // 
             // panel3
             // 
@@ -512,19 +502,18 @@
             // 
             this.tabControl1.Controls.Add(this.tabPage1);
             this.tabControl1.Controls.Add(this.tabPage2);
-            this.tabControl1.Location = new System.Drawing.Point(1039, 245);
+            this.tabControl1.Location = new System.Drawing.Point(867, 299);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(43, 18);
+            this.tabControl1.Size = new System.Drawing.Size(152, 140);
             this.tabControl1.TabIndex = 28;
-            this.tabControl1.Visible = false;
             // 
             // tabPage1
             // 
             this.tabPage1.Location = new System.Drawing.Point(4, 22);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(35, 0);
+            this.tabPage1.Size = new System.Drawing.Size(144, 114);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Yeni Proje";
             this.tabPage1.UseVisualStyleBackColor = true;
@@ -570,21 +559,19 @@
             // 
             this.listBox9.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.listBox9.FormattingEnabled = true;
-            this.listBox9.Location = new System.Drawing.Point(1009, 162);
+            this.listBox9.Location = new System.Drawing.Point(713, 298);
             this.listBox9.Name = "listBox9";
-            this.listBox9.Size = new System.Drawing.Size(47, 17);
+            this.listBox9.Size = new System.Drawing.Size(139, 173);
             this.listBox9.TabIndex = 268;
-            this.listBox9.Visible = false;
             // 
             // listBox10
             // 
             this.listBox10.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.listBox10.FormattingEnabled = true;
-            this.listBox10.Location = new System.Drawing.Point(1011, 185);
+            this.listBox10.Location = new System.Drawing.Point(858, 93);
             this.listBox10.Name = "listBox10";
-            this.listBox10.Size = new System.Drawing.Size(45, 17);
+            this.listBox10.Size = new System.Drawing.Size(129, 199);
             this.listBox10.TabIndex = 269;
-            this.listBox10.Visible = false;
             // 
             // toolStripSeparator20
             // 
@@ -604,11 +591,10 @@
             // 
             this.listBox11.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.listBox11.FormattingEnabled = true;
-            this.listBox11.Location = new System.Drawing.Point(789, 96);
+            this.listBox11.Location = new System.Drawing.Point(42, 93);
             this.listBox11.Name = "listBox11";
-            this.listBox11.Size = new System.Drawing.Size(162, 238);
+            this.listBox11.Size = new System.Drawing.Size(162, 199);
             this.listBox11.TabIndex = 274;
-            this.listBox11.Visible = false;
             // 
             // TestTimer
             // 
@@ -1424,7 +1410,7 @@
             this.toolStripMenuItem16,
             this.toolStripMenuItem17});
             this.yardımToolStripMenuItem1.Name = "yardımToolStripMenuItem1";
-            this.yardımToolStripMenuItem1.Size = new System.Drawing.Size(56, 20);
+            this.yardımToolStripMenuItem1.Size = new System.Drawing.Size(57, 20);
             this.yardımToolStripMenuItem1.Text = "Yardım";
             // 
             // iletişimToolStripMenuItem

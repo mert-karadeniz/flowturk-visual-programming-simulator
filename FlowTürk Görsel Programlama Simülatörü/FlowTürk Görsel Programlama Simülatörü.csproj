@@ -154,6 +154,14 @@
     <Compile Include="FrmVeriGirisCikis.Designer.cs">
       <DependentUpon>FrmVeriGirisCikis.cs</DependentUpon>
     </Compile>
+    <Compile Include="object\Component.cs" />
+    <Compile Include="object\components\InputComponent.cs" />
+    <Compile Include="object\components\MathOperationComponent.cs" />
+    <Compile Include="object\components\OutputComponent.cs" />
+    <Compile Include="object\FlowChartComponent.cs" />
+    <Compile Include="object\IFlowChart.cs" />
+    <Compile Include="object\components\LineComponent.cs" />
+    <Compile Include="object\models\Point.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FrmAna.resx">

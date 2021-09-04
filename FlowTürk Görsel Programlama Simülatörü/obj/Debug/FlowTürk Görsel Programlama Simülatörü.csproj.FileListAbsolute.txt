@@ -144,3 +144,25 @@ C:\Users\JMTech\Desktop\FlowTurkGPS\FlowTürk Görsel Programlama Simülatörü\
 C:\Users\JMTech\Desktop\FlowTurkGPS\FlowTürk Görsel Programlama Simülatörü\obj\Debug\FlowTürk_Görsel_Programlama_Simülatörü.Properties.Resources.resources
 C:\Users\JMTech\Desktop\FlowTurkGPS\FlowTürk Görsel Programlama Simülatörü\obj\Debug\FlowTürk Görsel Programlama Simülatörü.csproj.GenerateResource.Cache
 C:\Users\JMTech\Desktop\FlowTurkGPS\FlowTürk Görsel Programlama Simülatörü\obj\Debug\FlowTürk Görsel Programlama Simülatörü.exe.licenses
+C:\Users\pc\Desktop\flowturk-visual-programming-simulator\FlowTürk Görsel Programlama Simülatörü\bin\Debug\FlowTürk Görsel Programlama Simülatörü.exe.config
+C:\Users\pc\Desktop\flowturk-visual-programming-simulator\FlowTürk Görsel Programlama Simülatörü\obj\Debug\FlowTürk Görsel Programlama Simülatörü.exe
+C:\Users\pc\Desktop\flowturk-visual-programming-simulator\FlowTürk Görsel Programlama Simülatörü\obj\Debug\FlowTürk Görsel Programlama Simülatörü.pdb
+C:\Users\pc\Desktop\flowturk-visual-programming-simulator\FlowTürk Görsel Programlama Simülatörü\bin\Debug\FlowTürk Görsel Programlama Simülatörü.exe
+C:\Users\pc\Desktop\flowturk-visual-programming-simulator\FlowTürk Görsel Programlama Simülatörü\bin\Debug\FlowTürk Görsel Programlama Simülatörü.pdb
+C:\Users\pc\Desktop\flowturk-visual-programming-simulator\FlowTürk Görsel Programlama Simülatörü\bin\Debug\JMProjectDownloadProtocol.dll
+C:\Users\pc\Desktop\flowturk-visual-programming-simulator\FlowTürk Görsel Programlama Simülatörü\obj\Debug\FlowTürk Görsel Programlama Simülatörü.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\flowturk-visual-programming-simulator\FlowTürk Görsel Programlama Simülatörü\obj\Debug\FlowTürk_Görsel_Programlama_Simülatörü.FrmAna.resources
+C:\Users\pc\Desktop\flowturk-visual-programming-simulator\FlowTürk Görsel Programlama Simülatörü\obj\Debug\FlowTürk_Görsel_Programlama_Simülatörü.FrmAyarlar.resources
+C:\Users\pc\Desktop\flowturk-visual-programming-simulator\FlowTürk Görsel Programlama Simülatörü\obj\Debug\FlowTürk_Görsel_Programlama_Simülatörü.FrmCalismaHizi.resources
+C:\Users\pc\Desktop\flowturk-visual-programming-simulator\FlowTürk Görsel Programlama Simülatörü\obj\Debug\FlowTürk_Görsel_Programlama_Simülatörü.FrmCikisNesne.resources
+C:\Users\pc\Desktop\flowturk-visual-programming-simulator\FlowTürk Görsel Programlama Simülatörü\obj\Debug\FlowTürk_Görsel_Programlama_Simülatörü.FrmDegiskenNesne.resources
+C:\Users\pc\Desktop\flowturk-visual-programming-simulator\FlowTürk Görsel Programlama Simülatörü\obj\Debug\FlowTürk_Görsel_Programlama_Simülatörü.FrmEgerNesne.resources
+C:\Users\pc\Desktop\flowturk-visual-programming-simulator\FlowTürk Görsel Programlama Simülatörü\obj\Debug\FlowTürk_Görsel_Programlama_Simülatörü.FrmGirisNesne.resources
+C:\Users\pc\Desktop\flowturk-visual-programming-simulator\FlowTürk Görsel Programlama Simülatörü\obj\Debug\FlowTürk_Görsel_Programlama_Simülatörü.FrmGuncellemeIndirme.resources
+C:\Users\pc\Desktop\flowturk-visual-programming-simulator\FlowTürk Görsel Programlama Simülatörü\obj\Debug\FlowTürk_Görsel_Programlama_Simülatörü.FrmGuncellemePaneli.resources
+C:\Users\pc\Desktop\flowturk-visual-programming-simulator\FlowTürk Görsel Programlama Simülatörü\obj\Debug\FlowTürk_Görsel_Programlama_Simülatörü.FrmIletisim.resources
+C:\Users\pc\Desktop\flowturk-visual-programming-simulator\FlowTürk Görsel Programlama Simülatörü\obj\Debug\FlowTürk_Görsel_Programlama_Simülatörü.FrmIslemNesne.resources
+C:\Users\pc\Desktop\flowturk-visual-programming-simulator\FlowTürk Görsel Programlama Simülatörü\obj\Debug\FlowTürk_Görsel_Programlama_Simülatörü.FrmVeriGirisCikis.resources
+C:\Users\pc\Desktop\flowturk-visual-programming-simulator\FlowTürk Görsel Programlama Simülatörü\obj\Debug\FlowTürk_Görsel_Programlama_Simülatörü.Properties.Resources.resources
+C:\Users\pc\Desktop\flowturk-visual-programming-simulator\FlowTürk Görsel Programlama Simülatörü\obj\Debug\FlowTürk Görsel Programlama Simülatörü.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\flowturk-visual-programming-simulator\FlowTürk Görsel Programlama Simülatörü\obj\Debug\FlowTürk Görsel Programlama Simülatörü.exe.licenses

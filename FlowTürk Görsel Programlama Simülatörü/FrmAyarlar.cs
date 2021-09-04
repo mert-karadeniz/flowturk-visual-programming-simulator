@@ -15,5 +15,10 @@ namespace FlowTürk_Görsel_Programlama_Simülatörü
         {
             InitializeComponent();
         }
+
+        private void FrmAyarlar_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
